@@ -1,0 +1,8 @@
+{
+  "name": "MailHttp",
+  "description": "A plugin to send mail to players",
+  "version": "1.0",
+  "mainClass": "loli.ball.mail.MailHttpPlugin",
+  "authors": ["loliball"],
+  "loadAfter": []
+}
